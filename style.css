@@ -8,6 +8,7 @@ body{
   background-color: skyblue;
   font-family: sans-serif;
   overflow-x: hidden;
+  text-align: center;
 }
 
 .form {
